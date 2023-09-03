@@ -1,0 +1,157 @@
+Mission,Spacecraft,Mission Type,Outcome,Country,launch vehicle,Launch year
+Pioneer 0 (Able I),Pioneer,Orbiter,Failure,USA,Thor,1958
+Luna E-1 No.1,Luna,Impactor,Failure,Russia,Luna,1958
+Pioneer 1 (Able II),Pioneer,Orbiter,Failure,USA,Thor,1958
+Luna E-1 No.2,Luna,Impactor,Failure,Russia,Luna,1958
+Pioneer 2 (Able III),Pioneer,Orbiter,Failure,USA,Thor,1958
+Luna E-1 No.3,Luna,Impactor,Failure,Russia,Luna,1958
+Pioneer 3,Pioneer,Flyby,Failure,USA,Juno,1958
+Luna 1 (E-1 No.4),Luna,Impactor,Failure,Russia,Luna,1959
+Pioneer 4,Pioneer,Flyby,Failure,USA,Juno,1959
+E-1A No.1,E-1A,Impactor,Failure,Russia,Luna,1959
+Luna 2 (E-1A No.2),Luna,Impactor,Successful,Russia,Luna,1959
+Luna 3 (E-2A No.1),Luna,Flyby,Successful,Russia,Luna,1959
+Pioneer P-3 (Able IVB),Pioneer,Orbiter,Failure,USA,Atlas-D,1959
+Luna E-3 No.1,Luna,Flyby,Failure,Russia,Luna,1960
+Luna E-3 No.2,Luna,Flyby,Failure,Russia,Luna,1960
+Pioneer P-30 (Able VA),Pioneer,Orbiter,Failure,USA,Atlas-D,1960
+Pioneer P-31 (Able VB),Pioneer,Orbiter,Failure,USA,Atlas-D,1960
+Ranger 3 (P-34),Ranger,Impactor,Failure,USA,Atlas,1962
+Ranger 4 (P-35),Ranger,Impactor,Failure,USA,Atlas,1962
+Ranger 5 (P-36),Ranger,Impactor,Failure,USA,Atlas,1962
+Luna E-6 No.2,Luna,Lander,Failure,Russia,Molniya-L,1963
+Luna E-6 No.3,Luna,Lander,Failure,Russia,Molniya-L,1963
+Luna 4 (E-6 No.4),Luna,Lander,Failure,Russia,Molniya-L,1963
+Luna E-6 No.6,Luna,Lander,Failure,Russia,Molniya-M,1964
+Luna E-6 No.5,Luna,Lander,Failure,Russia,Molniya-M,1964
+Ranger 7,Ranger,Impactor,Successful,USA,Atlas,1964
+Ranger 8,Ranger,Impactor,Successful,USA,Atlas,1965
+Kosmos 60 (E-6 No.9),Kosmos,Lander,Failure,Russia,Molniya-L,1965
+Ranger 9,Ranger,Impactor,Successful,USA,Atlas,1965
+Luna E-6 No.8,Luna,Lander,Failure,Russia,Molniya-L,1965
+Luna 5 (E-6 No.10),Luna,Lander,Failure,Russia,Molniya-M,1965
+Luna 6 (E-6 No.7),Luna,Lander,Failure,Russia,Molniya-M,1965
+Zond 3 (3MV-4 No.3),Zond,Flyby,Successful,Russia,Molniya,1965
+Luna 7 (E-6 No.11),Luna,Lander,Failure,Russia,Molniya,1965
+Luna 8 (E-6 No.12),Luna,Lander,Failure,Russia,Molniya,1965
+Luna 9 (E-6 No.13),Luna,Lander,Successful,Russia,Molniya-M,1966
+Kosmos 111 (E-6S No.204),Kosmos,Orbiter,Failure,Russia,Molniya-M,1966
+Luna 10 (E-6S No.206),Luna,Orbiter,Successful,Russia,Molniya-M,1966
+Surveyor 1,Surveyor,Lander,Successful,USA,Atlas,1966
+Explorer 33 (AIMP-D),Explorer,Orbiter,Failure,USA,Delta,1966
+Lunar Orbiter 1,Lunar,Orbiter,Failure,USA,Atlas,1966
+Luna 11 (E-6LF No.101),Luna,Orbiter,Failure,Russia,Molniya-M,1966
+Surveyor 2,Surveyor,Lander,Failure,USA,Atlas,1966
+Luna 12 (E-6LF No.102),Luna,Orbiter,Successful,Russia,Molniya-M,1966
+Lunar Orbiter 2,Lunar,Orbiter,Successful,USA,Atlas,1966
+Luna 13 (E-6M No.205),Luna,Lander,Successful,Russia,Molniya-M,1966
+Lunar Orbiter 3,Lunar,Orbiter,Successful,USA,Atlas,1967
+Surveyor 3,Surveyor,Lander,Successful,USA,Atlas,1967
+Lunar Orbiter 4,Lunar,Orbiter,Successful,USA,Atlas,1967
+Surveyor 4,Surveyor,Lander,Failure,USA,Atlas,1967
+Explorer 35 (AIMP-E),Explorer,Orbiter,Successful,USA,Delta,1967
+Lunar Orbiter 5,Lunar,Orbiter,Successful,USA,Atlas,1967
+Surveyor 5,Surveyor,Lander,Successful,USA,Atlas,1967
+Soyuz 7K-L1 No.4L,Soyuz,Flyby,Failure,Russia,Proton-K/D,1967
+Surveyor 6,Surveyor,Lander,Successful,USA,Atlas,1967
+Soyuz 7K-L1 No.5L,Soyuz,Flyby,Failure,Russia,Proton-K/D,1967
+Surveyor 7,Surveyor,Lander,Successful,USA,Atlas,1968
+Luna E-6LS No.112,Luna,Orbiter,Failure,Russia,Molniya-M,1968
+Luna 14 (E-6LS No.113),Luna,Orbiter,Successful,Russia,Molniya-M,1968
+Soyuz 7K-L1 No.7L,Soyuz,Flyby,Failure,Russia,Proton-K/D,1968
+Zond 5 (7K-L1 No.9L),Zond,Flyby,Successful,Russia,Proton-K/D,1968
+Zond 6 (7K-L1 No.12L),Zond,Flyby,Failure,Russia,Proton-K/D,1968
+Apollo 8,Apollo,Crewed orbiter,Successful,USA,Saturn,1968
+Soyuz 7K-L1 No.13L,Soyuz,Flyby,Failure,Russia,Proton-K/D,1969
+Luna E-8 No.201,Luna,Lander,Failure,Russia,Proton-K/D,1969
+Luna E-8-5 No.402,Luna,Lander,Failure,Russia,Proton-K/D,1969
+Luna 15,Luna,Lander,Failure,Russia,Proton-K/D,1969
+Apollo 11,Apollo,Orbiter,Successful,USA,Saturn,1969
+Zond 7,Zond,Flyby,Successful,Russia,Proton-K/D,1969
+Kosmos 300,Kosmos,Lander,Failure,Russia,Proton-K/D,1969
+Kosmos 305,Kosmos,Lander,Failure,Russia,Proton-K/D,1969
+Apollo 12,Apollo,Orbiter,Successful,USA,Saturn,1969
+Luna E-8-5 No.405,Luna,Lander,Failure,Russia,Proton-K/D,1970
+Apollo 13,Apollo,Orbiter,Failure,USA,Saturn,1970
+Luna 16,Luna,Lander,Successful,Russia,Proton-K/D,1970
+Zond 8,Zond,Flyby,Successful,Russia,Proton-K/D,1970
+Luna 17,Luna,Lander,Successful,Russia,Proton-K/D,1970
+Apollo 14,Apollo,Orbiter,Successful,USA,Saturn,1971
+Apollo 15,Apollo,Orbiter,Successful,USA,Saturn,1971
+PFS-1,PFS-1,Orbiter,Successful,USA,Saturn,1971
+Luna 18,Luna,Lander,Failure,Russia,Proton-K/D,1971
+Luna 19,Luna,Orbiter,Successful,Russia,Proton-K/D,1971
+Luna 20,Luna,Lander,Successful,Russia,Proton-K/D,1972
+Apollo 16,Apollo,"Orbiter,Lander,Rover",Successful,USA,Saturn,1972
+PFS-2,PFS-2,Orbiter,Successful,USA,Saturn,1972
+Soyuz 7K-LOK No.1,Soyuz,Orbiter,Failure,Russia,N1,1972
+Apollo 17,Apollo,"Orbiter,Lander,Rover",Successful,USA,Saturn,1972
+Luna 21,Luna,Lander,Successful,Russia,Proton-K/D,1973
+Explorer 49,Explorer,Orbiter,Successful,USA,Delta,1973
+Mariner 10,Mariner,Flyby,Successful,USA,Atlas,1973
+Luna 22,Luna,Orbiter,Successful,Russia,Proton-K/D,1974
+Luna 23,Luna,Lander,Failure,Russia,Proton-K/D,1975
+Luna E-8-5M No.412,Luna,"Lander,Sample Return",Failure,Russia,Proton-K/D,1975
+Luna 24,Luna,"Lander,Sample Return",Successful,Russia,Proton-K/D,1976
+ISEE-3,ISEE-3,Flyby,Successful,USA,Delta,1978
+Hiten,Hiten,Orbiter,Successful,Japan,Mu-3S-II,1990
+Hiten,Hagoromo,Orbiter,Failure,Japan,Mu-4S-II,1990
+Geotail,Geotail,Flyby,Successful,Japan,Delta,1992
+WIND,WIND,Flyby,Successful,USA,Delta,1994
+Clementine,Clementine,Orbiter,Successful,USA,Titan,1994
+HGS-1,HGS-1,Flyby,Successful,USA,Proton-K/DM3,1997
+Lunar Prospector,Lunar,Orbiter,Successful,USA,Athena,1998
+Nozomi,Nozomi,Flyby,Successful,Japan,M-V,1998
+WMAP,WMAP,Flyby,Successful,USA,Delta,2001
+SMART-1,SMART-1,Orbiter,Successful,European,Ariane,2003
+STEREO A,STEREO,Flyby,Successful,USA,Delta,2006
+STEREO B,STEREO,Flyby,Successful,USA,Delta,2006
+ARTEMIS P1,ARTEMIS,Orbiter,Successful,USA,Delta,2007
+ARTEMIS P2,ARTEMIS,Orbiter,Successful,USA,Delta,2007
+SELENE (Kaguya),Kaguya,Orbiter,Successful,Japan,H-IIA,2007
+SELENE (Kaguya),Okina,Orbiter,Successful,Japan,H-IIA,2007
+SELENE (Kaguya),Ouna,Orbiter,Successful,Japan,H-IIA,2007
+Chang'e 1,Chang'e,Orbiter,Successful,China,Long March,2007
+Chandrayaan-1,Chandrayaan-1,Orbiter,Successful,India,PSLV-XL,2008
+Chandrayaan-1,Moon,Impactor,Successful,India,PSLV-XL,2008
+Lunar Reconnaissance Orbiter,Lunar,Orbiter,Successful,USA,Atlas,2009
+LCROSS,LCROSS,Impactor,Successful,USA,Atlas,2009
+Chang'e 2,Chang'e,Orbiter,Successful,China,Long March,2010
+GRAIL,Ebb,Orbiter,Successful,USA,Delta,2011
+GRAIL,Flow,Orbiter,Successful,USA,Delta,2011
+LADEE,LADEE,Orbiter,Successful,USA,Minotaur,2013
+Chang'e 3,Chang'e,Lander,Successful,China,Long March,2013
+Chang'e 3,Yutu,Rover,Successful,China,Long March,2013
+Chang'e 5-T1,Chang'e,Orbiter,Successful,China,Long March,2014
+Chang'e 5-T1,Return,Orbiter,Successful,China,Long March,2014
+Manfred Memorial Moon Mission,Manfred,Flyby / Impactor (post mission),Successful,Luxembourg,Long March,2014
+TESS,TESS,Flyby,Successful,USA,Falcon,2018
+Queqiao,Queqiao,Relay Satellite,Successful,China,Long March,2018
+Longjiang-1,Longjiang-1,Orbiter,Failure,China,Long March,2018
+Longjiang-2,Longjiang-2,Orbiter,Successful,China,Long March,2018
+Chang'e 4,Chang'e,Lander,Successful,China,Long March,2018
+Chang'e 4,Yutu-2,Rover,Successful,China,Long March,2018
+Beresheet,Beresheet,Lander,Failure,Israel,Falcon,2019
+Chandrayaan-2,Chandrayaan-2,Orbiter,Successful,India,LVM3,2019
+Chang'e 5,Chang'e,Orbiter,Successful,China,Long March,2020
+Chang'e 5,Chang'e,Lander,Successful,China,Long March,2020
+Chang'e 5,Chang'e,Sample Return,Successful,China,Long March,2020
+CAPSTONE,CAPSTONE,Orbiter,Successful,USA,Electron,2022
+Danuri,Danuri,Orbiter,Successful,South Korea,Falcon,2022
+Artemis 1,Artemis,Orbiter,Successful,USA,SLS,2022
+LunaH-Map,LunaH-Map,Orbiter,Failure,USA,SLS,2022
+Lunar IceCube,Lunar,Orbiter,Failure,USA,SLS,2022
+ArgoMoon,ArgoMoon,Flyby,Successful,Italy,SLS,2022
+LunIR,LunIR,Flyby,Successful,USA,SLS,2022
+Near-Earth Asteroid Scout,Near-Earth,Flyby,Failure,USA,SLS,2022
+EQUULEUS,EQUULEUS,Flyby,Successful,Japan,SLS,2022
+OMOTENASHI,OMOTENASHI,Impactor,Failure,Japan,SLS,2022
+BioSentinel,BioSentinel,Flyby,Successful,USA,SLS,2022
+CubeSat for Solar Particles,CubeSat,Flyby,Failure,USA,SLS,2022
+Team Miles,Team,Flyby,Successful,USA,SLS,2022
+Hakuto-R Mission 1,Hakuto-R,Lander,Failure,Japan,Falcon,2022
+SORA-Q,SORA-Q,Rover,Failure,Japan,Falcon,2022
+Emirates Lunar Mission,Rashid,Rover,Failure,UAE,Falcon,2022
+Lunar Flashlight,Lunar,Flyby,Failure,USA,Falcon,2022
+Chandrayaan-3,Chandrayaan-3,Orbiter,Successful,India,LVM3,2023
+Luna 25,Luna,Lander,Failure,Russia,Soyuz-2.1b/Fregat,2023
